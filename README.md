@@ -3,7 +3,7 @@
 IT student at Fontys University (8.1 GPA, Cum Laude) building full-stack applications across backend, web, and Android.
 
 - Based in Venlo, Netherlands
-- Email: [mailto:leonardo.notargiacomo.23@gmail.com](leonardo.notargiacomo.23@gmail.com)
+- Email: [leonardo.notargiacomo.23@gmail.com](mailto:leonardo.notargiacomo.23@gmail.com)
 - LinkedIn: [linkedin.com/in/leonardonotargiacomo](https://linkedin.com/in/leonardonotargiacomo)
 
 ## Quick snapshot
@@ -15,7 +15,7 @@ IT student at Fontys University (8.1 GPA, Cum Laude) building full-stack applica
 
 ## Featured projects
 
-### SkyVoyage | Airline booking system
+### [SkyVoyage](https://github.com/Leonardo-Notargiacomo/SkyVoyage) | Airline booking system
 `Java 21` `Javalin` `PostgreSQL` `SvelteKit` `Docker`
 
 End-to-end booking platform delivered by a 4-person Agile team.
@@ -25,7 +25,7 @@ End-to-end booking platform delivered by a 4-person Agile team.
 - Built 70 JUnit 5 and Mockito tests to strengthen release reliability
 - Set up GitHub Actions CI/CD for consistent automated checks
 
-### Flagger | Location-based exploration app
+### [Flagger](https://github.com/Leonardo-Notargiacomo/Flagger) | Location-based exploration app
 `Kotlin` `Jetpack Compose` `LoopBack 4` `Firebase` `PostgreSQL`
 
 Mobile app built in a 6-person team where I served as Product Owner and hands-on developer.
