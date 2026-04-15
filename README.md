@@ -1,51 +1,51 @@
 # Hi, I'm Leonardo Notargiacomo
 
-IT student at Fontys University (8.1 GPA, Cum Laude) building full-stack software with a backend-first mindset and strong product execution.
+IT student at Fontys University (8.1 GPA, Cum Laude) building production-style full-stack applications across backend, web, and Android.
 
-- Venlo, Netherlands
+- Based in Venlo, Netherlands
 - Email: leonardo.notargiacomo.23@gmail.com
 - LinkedIn: [linkedin.com/in/leonardonotargiacomo](https://linkedin.com/in/leonardonotargiacomo)
 
-## About me
+## Quick snapshot
 
 - Student Assistant supporting 70+ students in core IT courses
-- Comfortable moving from backend architecture to frontend delivery
-- Interested in scalable APIs, clean system design, and developer-friendly tooling
+- Backend-first engineer comfortable shipping end-to-end features
+- Focused on scalable APIs, clean architecture, and CI/CD reliability
 
-## Current focus
+## Recruiter highlights
 
-- Working on an Org Network Graph with Django + React + TypeScript + React Flow
-- Improving graph exploration UX and privacy-first data modeling
-- Sharpening CI/CD and production deployment workflows
+- Built and shipped a full-stack airline booking platform in a 4-person Agile team
+- Delivered 27 REST endpoints, 10 database tables, and 70 automated tests in one project
+- Led product direction as Product Owner in a 6-person mobile app team while staying hands-on in development
 
 ## Featured projects
 
 ### SkyVoyage | Airline booking system
 `Java 21` `Javalin` `PostgreSQL` `SvelteKit` `Docker`
 
-Built in a 4-person Agile team.
+End-to-end booking platform delivered by a 4-person team.
 
-- Shipped 27 REST endpoints
-- Designed 10 database tables
-- Wrote 70 automated tests (JUnit 5 + Mockito)
-- Integrated GitHub Actions CI/CD
+- Built 27 REST endpoints powering core booking workflows
+- Designed 10 relational DB tables for flights, users, and reservations
+- Wrote 70 JUnit 5 and Mockito tests to improve release confidence
+- Set up GitHub Actions CI/CD for repeatable builds and checks
 
 ### Flagger | Location-based exploration app
 `Kotlin` `Jetpack Compose` `LoopBack 4` `Firebase` `PostgreSQL`
 
-Served as Product Owner in a 6-person team while contributing hands-on development.
+Mobile app built in a 6-person team where I served as Product Owner and developer.
 
-- Built friends system, public profiles, and push notifications
-- Integrated Google Maps + CameraX
-- Implemented Firebase Cloud Messaging
+- Delivered social features: friends system, public profiles, and notifications
+- Integrated Google Maps and CameraX to support location and media workflows
+- Implemented Firebase Cloud Messaging for push delivery
 
 ### Org Network Graph | In progress
 `Django` `React` `TypeScript` `React Flow`
 
-Interactive graph to explore organization-to-organization connections.
+Interactive graph platform for exploring organization-to-organization relationships.
 
-- Edge-level exploration to inspect relationships in detail
-- Mutual-consent privacy model for sensitive connections
+- Building edge-level exploration for deeper relationship analysis
+- Implementing a mutual-consent privacy model for sensitive connections
 
 ## Tech stack
 
@@ -54,12 +54,12 @@ Interactive graph to explore organization-to-organization connections.
 - Tools: Git, Docker, GitHub Actions, PostgreSQL, Firebase, Render, Vercel
 - Practices: Agile/Scrum, REST APIs, CI/CD, MVVM, TDD
 
-## Language skills
+## Languages
 
 - Russian: Native
 - English: C1 (IELTS 7.5)
 - Spanish: B1-B2
 
-## Collaboration
+## Open to opportunities
 
-I like building practical products with strong engineering fundamentals. If you are working on API-heavy full-stack products, Android apps, or graph-driven interfaces, I am open to collaboration.
+Open to internship and junior software engineering opportunities, especially backend and full-stack roles.
