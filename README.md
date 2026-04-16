@@ -1,6 +1,6 @@
 # Hi, I'm Leonardo Notargiacomo
 
-IT student at Fontys University (8.1 GPA, Cum Laude) building full-stack applications across backend, web, and Android.
+IT student at Fontys University building full-stack applications across backend, web, and Android.
 
 - Based in Venlo, Netherlands
 - Email: [leonardo.notargiacomo.23@gmail.com](mailto:leonardo.notargiacomo.23@gmail.com)
